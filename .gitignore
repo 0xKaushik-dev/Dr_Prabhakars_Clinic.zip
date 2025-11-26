@@ -1,0 +1,9 @@
+node_modules/
+.next/
+_nextjs_backup/
+_nextjs_backup_final/
+_static_backup/
+*.zip
+.DS_Store
+.env
+.env.local
